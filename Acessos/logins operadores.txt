@@ -1,0 +1,56 @@
+Michi
+    https://app.ayrton.net.br/auth/login
+        user: usermichi
+        senha: Housi@2026
+Check-in
+    https://cazzaa.stays.net/i/home
+        user: operacoes@housi.com.br
+        senha: Housi@operacoes26
+Dabra
+    https://brasa.stays.com.br/i/home
+        user: operacoes@housi.com.br
+        senha: Housi@2023dabra
+My Way
+    https://osal.stays.com.br/i/home
+        user: rodrigo.barreira@housi.com.br
+        senha: Housi123456!
+Carpediem
+        https://rbm.stays.com.br/i/calendars?_idregion=all
+            user: joice.oliveira@housi.com.br
+            senha: Oliveira307568@@
+Divid 
+    https://divid.stays.net/i/home
+        user: bruna.faraone@housi.com.br
+        senha: Mudar@313131
+Book Santos
+    https://bsac.stays.com.br/i/home
+        user: operacoes@housi.com.br
+        senha: Operacoes@housi123
+Stay House
+    https://my.stays.net/my/user/signin/
+        user: operacoes@housi.com.br
+        senha: StayHouse2025@
+360
+    https://app.guesty.com/auth/logout?ref=%2F
+        user: bruna.faraone+360@housi.com.br
+        senha: Mudar@313131
+Trevizzo
+    https://trevizzo.stays.net/i/home
+        user: operacoes@housi.com.br
+        senha: @@Housi2019!TD
+Pacta
+    https://pacta.stays.net/i/home
+        user: rodrigo.barreira@housi.com.br
+        senha: Housi#102030
+Easy Rent
+    https://gzd.stays.com.br/i/home
+        login: operacoes@housi.com.br
+        senha: Housi@2019!OTDJRJT
+O lugar
+    https://olfk.stays.net/i/home
+        login: operacoes@housi.com.br
+        senha: Operações123!
+Airlocando
+    https://app.guesty.com/
+        login: bruna.faraone@housi.com.br
+        senha: Mudar@313132

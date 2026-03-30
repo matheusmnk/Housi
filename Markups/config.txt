@@ -1,0 +1,5 @@
+Extranet Booking
+    if Genius = True
+        markup 48%
+    if Genius = False
+        markup 36%

@@ -1,0 +1,11 @@
+Extranet Booking
+    User Malu:
+        login: vitaconsp
+        senha: Revenue@2026@H@Housi
+    User Geovana:
+        login: rmhousi
+        senha: Revenue@2026@H@time
+Stays
+    User Bruna
+        login: bruna.faraone@housi.com.br
+        senha: Mudar@313132
