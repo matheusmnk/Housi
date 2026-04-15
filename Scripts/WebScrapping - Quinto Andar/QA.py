@@ -14,7 +14,7 @@ driver = webdriver.Chrome(options=options)
 
 # Lista de links dos prédios
 urls_predios = [
-    "https://www.quintoandar.com.br/condominio/on-brooklin-jardim-das-acacias-sao-paulo-k87s7eejop"
+    "https://www.quintoandar.com.br/condominio/movi-life-1-tatuape-sao-paulo-k99s17o2lk"
 ]
 
 headers = {
